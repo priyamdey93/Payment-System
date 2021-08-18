@@ -8,7 +8,6 @@ target/
 .apt_generated
 .classpath
 .factorypath
-.project
 .settings
 .springBeans
 .sts4-cache
@@ -33,5 +32,4 @@ build/
 .vscode/
 
 .mvn/
-.settings/
 bin/
